@@ -1,0 +1,66 @@
+/* background */
+
+body {
+    background-color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* header and main text */
+
+h1 {
+    color: darkgoldenrod;
+}
+
+.horsesForSale {
+    color: darkgoldenrod;
+}
+
+.horsesInStock {
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    color: gold;
+    letter-spacing: 10px;
+    text-shadow: goldenrod -3px -3px;
+}
+
+.aboutUs {
+    position: absolute;
+    top: 64px;
+    right: 16px;
+    color: gold;
+    letter-spacing: 10px;
+    text-shadow: goldenrod -3px -3px;
+}
+
+h2 {
+    color: darkgoldenrod;
+}
+
+h3 {
+    color: darkgoldenrod;
+}
+
+p {
+    text-align: center;
+    color: goldenrod;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+/* button */
+
+button {
+    font-family: cursive;
+    font-size: xx-large;
+    color: black;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    opacity: .60 ;
+    border-radius: 22px;
+
+}
