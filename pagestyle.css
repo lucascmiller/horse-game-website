@@ -24,6 +24,15 @@ h1 {
     text-shadow: goldenrod -3px -3px;
 }
 
+.devLog {
+    position: absolute;
+    top: 112px;
+    right: 16px;
+    color: gold;
+    letter-spacing: 10px;
+    text-shadow: goldenrod -3px -3px;
+}
+
 .aboutUs {
     position: absolute;
     top: 64px;

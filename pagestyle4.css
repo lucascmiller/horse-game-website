@@ -1,0 +1,46 @@
+/* background */
+
+html {
+    background-image: url("unclebrowning2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; 
+}   
+
+/* humble beginnings, our story, and uncle browning story */
+
+h1, .ourstory, h3, h4{
+    font-family:cursive;
+    text-align: justify;
+    color: burlywood;
+    letter-spacing:2px;
+    background-color: black;
+}
+
+/* return button */
+
+button {
+    position: relative;
+
+}
+
+.divedeep {
+    font-size: xx-large;
+    font-family: fantasy;
+}
+
+.divedeep span {
+    background-color: wheat;
+}
+
+.log1 {
+    position: absolute;
+    top: 500px;
+    left: 16px;
+    color: rgb(0, 0, 0);
+    letter-spacing: 5px;
+    background-color: wheat;
+}
