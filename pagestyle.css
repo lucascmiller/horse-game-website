@@ -63,6 +63,10 @@ p {
 /* button */
 
 button {
+    outline: none;
+    display: grid;
+    margin: auto;
+    text-decoration: none;
     font-weight: bold;
     font-family: monospace;
     font-size: xx-large;
@@ -82,10 +86,14 @@ button {
 
 .horsepic1 {
     border-radius: 22px;
+    position: relative;
+    left: 16px;
 }
 
 .horsepic2 {
     border-radius: 22px;
+    position: relative;
+    left: 16px;
 }
 
 .horsetext {
@@ -96,8 +104,24 @@ button {
 
 .horsepic3 {
     border-radius: 22px;
-    display:block;
+    position: relative;
+    left: 16px;
+}
+
+.horsepic4{
+    position: relative;
+    left: 16px;
+    border-radius: 22px;
+    
+}
+.donkeysong {
+    position: relative;
+    display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    top: -50px;
+    right: 10px; 
 }
 
