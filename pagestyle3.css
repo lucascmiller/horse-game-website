@@ -36,6 +36,15 @@ button {
     background-color: wheat;
 }
 
+.log3 {
+    position: absolute;
+    top: 350px;
+    left: 16px;
+    color: rgb(0, 0, 0);
+    letter-spacing: 5px;
+    background-color: wheat;
+}
+
 .log2 {
     position: absolute;
     top: 375px;
