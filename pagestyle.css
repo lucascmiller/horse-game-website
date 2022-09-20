@@ -24,6 +24,15 @@ h1 {
     text-shadow: goldenrod -3px -3px;
 }
 
+.horseGame {
+    position: absolute;
+    top: 140px;
+    right: 16px;
+    color: gold;
+    letter-spacing: 10px;
+    text-shadow: goldenrod -3px -3px;
+}
+
 .devLog {
     position: absolute;
     top: 112px;
